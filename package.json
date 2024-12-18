@@ -1,0 +1,29 @@
+{
+  "name": "cypress-gmail-parser",
+  "version": "1.0.0",
+  "description": "Parser gmail for cpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cronic7/cypress-gmail-parser.git"
+  },
+  "keywords": [
+    "cypress",
+    "gmail",
+    "mail",
+    "parser"
+  ],
+  "author": "Cronic7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cronic7/cypress-gmail-parser/issues"
+  },
+  "homepage": "https://github.com/Cronic7/cypress-gmail-parser#readme",
+  "dependencies": {
+    "mailparser": "^3.7.2",
+    "node-imap": "^0.9.6"
+  }
+}
